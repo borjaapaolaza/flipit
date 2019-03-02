@@ -8,10 +8,3 @@ For material lists, assembling steps and more, check wiki.
 Also, this is an improvable prototype, that so please feel free to contribute and suggest improvements. Some are listed in the last page of the wiki. 
   
 This project has been designed by students and co-designer Ellen during  [A/T Hack](http://assistivetech.mit.edu/home.html) hackathon 2019 edition @ Massachusetts Institute of Technology, USA
-
- 
-Files of the project related to the upper part (arduino) has a 0 before, for the lower part (actuators, springs...) has a 1 before. Structure of files:
-3dmodels
-  .3dm files (Rhinoceros)
-  3dPrint (.stl)
-  LaserCut (.dxf)
